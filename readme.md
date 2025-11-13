@@ -1,5 +1,18 @@
 # Orleans Dashboard
 
+> **⚠️ DEPRECATION NOTICE**
+> 
+> **This project has been merged into the main Orleans repository and is no longer actively maintained here.**
+> 
+> Please use the official Orleans Dashboard instead:
+> - **New Repository:** https://github.com/dotnet/orleans
+> - **Migration PR:** https://github.com/dotnet/orleans/pull/9751
+> - **Documentation:** Visit the Orleans documentation for the latest dashboard information
+> 
+> For new projects, please install and use the dashboard from the official Orleans packages.
+
+---
+
 [![.NET Core](https://github.com/OrleansContrib/OrleansDashboard/actions/workflows/dotnetcore.yml/badge.svg)](https://github.com/OrleansContrib/OrleansDashboard/actions/workflows/dotnetcore.yml)
 [![Node CI](https://github.com/OrleansContrib/OrleansDashboard/actions/workflows/nodejs.yml/badge.svg)](https://github.com/OrleansContrib/OrleansDashboard/actions/workflows/nodejs.yml)
 [![Nuget](https://img.shields.io/nuget/v/OrleansDashboard)](https://www.nuget.org/packages/OrleansDashboard/)
